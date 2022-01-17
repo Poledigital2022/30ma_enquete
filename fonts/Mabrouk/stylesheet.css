@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mabrouk';
+    src: url('Mabrouk.html') format('woff2'),
+        url('Mabrouk.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
